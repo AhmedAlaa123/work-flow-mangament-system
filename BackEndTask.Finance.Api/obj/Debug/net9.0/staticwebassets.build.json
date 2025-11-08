@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5AkEyTN+rHHBMSuNY27Tsfjn/Kj3S9kxbE4ebC8PYKU=",
+  "Source": "BackEndTask.Finance.Api",
+  "BasePath": "_content/BackEndTask.Finance.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BackEndTask.Finance.Api.Controllers.FinanceValidatorController",
+    "Method": "ValidateFinanceRequests",
+    "RelativePath": "v1/FinanceValidator/Validate-finance-request",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flowDto",
+        "Type": "BackEndTask.Finance.Api.Dto.FlowDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BackEndTask.Finance.Api.Dto.ExtranlValidationReponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

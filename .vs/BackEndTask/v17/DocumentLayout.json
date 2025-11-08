@@ -1,0 +1,1141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\meddilwares\\stepvalidationmeddileware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\meddilwares\\stepvalidationmeddileware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\handlers\\workflowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\handlers\\workflowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\enums\\applicationenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\enums\\applicationenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\workflowqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\workflowqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\reposatories\\services\\reposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\reposatories\\services\\reposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\dbcontext\\workflowtrakdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\dbcontext\\workflowtrakdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\uidependancyinjection\\apidependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\uidependancyinjection\\apidependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\meddilwares\\exceptionhandlermeddilware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\meddilwares\\exceptionhandlermeddilware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\dto\\workflowstepquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\dto\\workflowstepquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\dto\\workflowstepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\dto\\workflowstepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\dto\\processquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\dto\\processquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\dto\\workflowstepupdatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\dto\\workflowstepupdatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.finance.api\\dto\\extranlvalidationreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|solutionrelative:backendtask.finance.api\\dto\\extranlvalidationreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.finance.api\\controllers\\financevalidatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|solutionrelative:backendtask.finance.api\\controllers\\financevalidatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\controllers\\stepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\controllers\\stepscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\entites\\workflowstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\entites\\workflowstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\controllers\\processcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\controllers\\processcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\dto\\startworkflowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\dto\\startworkflowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\basedto\\extranlvalidationreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\basedto\\extranlvalidationreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.finance.api\\dto\\flowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|solutionrelative:backendtask.finance.api\\dto\\flowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\controllers\\basecontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\controllers\\basecontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\dto\\flowprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\dto\\flowprocessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\entites\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\entites\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\dto\\processitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\dto\\processitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\dto\\workflowstepcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\dto\\workflowstepcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\dto\\workflowstepupdatestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\dto\\workflowstepupdatestatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\queries\\dto\\workflowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\queries\\dto\\workflowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.finance.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|solutionrelative:backendtask.finance.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.finance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|solutionrelative:backendtask.finance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.finance.api\\backendtask.finance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E5C144B-F8F0-404D-98B8-BBC7B0288AC3}|BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj|solutionrelative:backendtask.finance.api\\backendtask.finance.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\backendtask.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\backendtask.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\controllers\\workflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\controllers\\workflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\dto\\workflowcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\dto\\workflowcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\setpsservice\\commands\\handlers\\setpcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\setpsservice\\commands\\handlers\\setpcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\usersservices\\queries\\usersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\usersservices\\queries\\usersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\usersservices\\queries\\dto\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\usersservices\\queries\\dto\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\profiles\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\profiles\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\usersservices\\queries\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\usersservices\\queries\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\entites\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\helpers\\workflowtrakdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\helpers\\workflowtrakdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\setpsservice\\commands\\dto\\stepcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\setpsservice\\commands\\dto\\stepcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\setpsservice\\queries\\dto\\setpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\setpsservice\\queries\\dto\\setpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\setpsservice\\queries\\dto\\stepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\setpsservice\\queries\\dto\\stepquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\entites\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\entites\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\setpsservice\\commands\\dto\\stepcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\setpsservice\\commands\\dto\\stepcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\setpsservice\\queries\\handlers\\stepsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\setpsservice\\queries\\handlers\\stepsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\entites\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|solutionrelative:backendtask.data\\entites\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\rolesserivces\\queries\\handlers\\rolequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\rolesserivces\\queries\\handlers\\rolequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\response\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\response\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\dto\\workflowcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\dto\\workflowcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\rolesserivces\\queries\\dto\\rolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\rolesserivces\\queries\\dto\\rolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\rolesserivces\\queries\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\rolesserivces\\queries\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\backendtask.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\backendtask.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\extensionsmethods\\exceptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\extensionsmethods\\exceptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\exceptions\\userfriendlyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\reposatories\\contracts\\ireposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\reposatories\\contracts\\ireposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\migrations\\20251108085712_adduserforstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\migrations\\20251108085712_adduserforstage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\migrations\\20251108070940_addorderinflowsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\migrations\\20251108070940_addorderinflowsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.persistance\\migrations\\20251108063724_updatestepinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C833BA-B25C-4487-AE7D-4DDC523FA7A1}|BackEndTask.Persistance\\BackEndTask.Persistance.csproj|solutionrelative:backendtask.persistance\\migrations\\20251108063724_updatestepinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1139089979:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1330258491:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1208403699:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkFlowTrakDbContext.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\DbContext\\WorkFlowTrakDbContext.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\DbContext\\WorkFlowTrakDbContext.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\DbContext\\WorkFlowTrakDbContext.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\DbContext\\WorkFlowTrakDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:56:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reposatory.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Reposatories\\Services\\Reposatory.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\Reposatories\\Services\\Reposatory.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Reposatories\\Services\\Reposatory.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\Reposatories\\Services\\Reposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:51:11.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkflowCommandHandler.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\handlers\\WorkflowCommandHandler.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\handlers\\WorkflowCommandHandler.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\handlers\\WorkflowCommandHandler.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\handlers\\WorkflowCommandHandler.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowIgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:48:25.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandlerMeddilware.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\MeddilWares\\ExceptionHandlerMeddilware.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\MeddilWares\\ExceptionHandlerMeddilware.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\MeddilWares\\ExceptionHandlerMeddilware.cs",
+              "RelativeToolTip": "BackEndTask.Api\\MeddilWares\\ExceptionHandlerMeddilware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:27:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StepValidationMeddileWare.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
+              "RelativeToolTip": "BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:37:56.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkFlowQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\WorkFlowQueryHandler.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\WorkFlowQueryHandler.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\WorkFlowQueryHandler.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\WorkFlowQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:36:31.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationEnums.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Enums\\ApplicationEnums.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Enums\\ApplicationEnums.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Enums\\ApplicationEnums.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Enums\\ApplicationEnums.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:24:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiDependancyInjection.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\UIDependancyInjection\\ApiDependancyInjection.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\UIDependancyInjection\\ApiDependancyInjection.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\UIDependancyInjection\\ApiDependancyInjection.cs",
+              "RelativeToolTip": "BackEndTask.Api\\UIDependancyInjection\\ApiDependancyInjection.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:06:09.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExtranlValidationReponseDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Dto\\ExtranlValidationReponseDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Finance.Api\\Dto\\ExtranlValidationReponseDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Dto\\ExtranlValidationReponseDto.cs",
+              "RelativeToolTip": "BackEndTask.Finance.Api\\Dto\\ExtranlValidationReponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:15:52.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkflowStepUpdateStatusDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:48:43.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkFlowStepDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:49:51.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProcessQueryDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessQueryDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessQueryDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessQueryDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:32:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkFlowStepQueryDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepQueryDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepQueryDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepQueryDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowStepQueryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:38:27.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinanceValidatorController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Controllers\\FinanceValidatorController.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Finance.Api\\Controllers\\FinanceValidatorController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Controllers\\FinanceValidatorController.cs",
+              "RelativeToolTip": "BackEndTask.Finance.Api\\Controllers\\FinanceValidatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:16:44.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkFlowStep.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\WorkFlowStep.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Entites\\WorkFlowStep.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\WorkFlowStep.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Entites\\WorkFlowStep.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:50:17.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StepsController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\StepsController.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Controllers\\StepsController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\StepsController.cs",
+              "RelativeToolTip": "BackEndTask.Api\\Controllers\\StepsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:53:59.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProcessController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\ProcessController.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Controllers\\ProcessController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\ProcessController.cs",
+              "RelativeToolTip": "BackEndTask.Api\\Controllers\\ProcessController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:25:55.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StartWorkFlowCommand.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\StartWorkFlowCommand.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\StartWorkFlowCommand.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\StartWorkFlowCommand.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\StartWorkFlowCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:18:42.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExtranlValidationReponseDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\BaseDto\\ExtranlValidationReponseDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\BaseDto\\ExtranlValidationReponseDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\BaseDto\\ExtranlValidationReponseDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\BaseDto\\ExtranlValidationReponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:00:13.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FlowDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Dto\\FlowDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Finance.Api\\Dto\\FlowDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Dto\\FlowDto.cs",
+              "RelativeToolTip": "BackEndTask.Finance.Api\\Dto\\FlowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:18:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseController3.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\BaseController3.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Controllers\\BaseController3.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\BaseController3.cs",
+              "RelativeToolTip": "BackEndTask.Api\\Controllers\\BaseController3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:31:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkFlow.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\WorkFlow.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Entites\\WorkFlow.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\WorkFlow.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Entites\\WorkFlow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:43:18.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FlowProcessDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\FlowProcessDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\FlowProcessDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\FlowProcessDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\FlowProcessDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:34:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Program.cs",
+              "RelativeToolTip": "BackEndTask.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:35:28.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProcessItemDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessItemDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessItemDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessItemDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\ProcessItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T11:32:57.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkflowStepCreateDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepCreateDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepCreateDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepCreateDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:44:08.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WorkflowStepUpdateStatusCommand.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusCommand.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusCommand.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusCommand.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkflowStepUpdateStatusCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:48:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BackEndTask.Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:57:12.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEndTask.Finance.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEndTask.Finance.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T09:35:00.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WorkFlowDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Queries\\Dto\\WorkFlowDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:41:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BackEndTask.Api.csproj",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\BackEndTask.Api.csproj",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\BackEndTask.Api.csproj",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\BackEndTask.Api.csproj",
+              "RelativeToolTip": "BackEndTask.Api\\BackEndTask.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T09:33:22.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BackEndTask.Finance.Api.csproj",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj",
+              "RelativeDocumentMoniker": "BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj",
+              "RelativeToolTip": "BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T09:33:35.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Finance.Api\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Finance.Api\\Program.cs",
+              "RelativeToolTip": "BackEndTask.Finance.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:34:26.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackEndTask.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T09:36:20.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WorkFlowCreateDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:40:54.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WorkflowController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\WorkflowController.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Api\\Controllers\\WorkflowController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\Controllers\\WorkflowController.cs",
+              "RelativeToolTip": "BackEndTask.Api\\Controllers\\WorkflowController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:17:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SetpCommandHandler.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Commands\\Handlers\\SetpCommandHandler.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\SetpsService\\Commands\\Handlers\\SetpCommandHandler.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Commands\\Handlers\\SetpCommandHandler.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\SetpsService\\Commands\\Handlers\\SetpCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:48:16.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Utilities\\Constants.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Utilities\\Constants.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Utilities\\Constants.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Utilities\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:54:35.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Response\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Response\\ResponseModel.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Response\\ResponseModel.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Response\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:39:00.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsersQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\UsersServices\\Queries\\UsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\UsersServices\\Queries\\UsersQueryHandler.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\UsersServices\\Queries\\UsersQueryHandler.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\UsersServices\\Queries\\UsersQueryHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:08:35.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Entites\\ApplicationUser.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\ApplicationUser.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Entites\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:29:12.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:05:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserQuery.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserQuery.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserQuery.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\UsersServices\\Queries\\Dto\\UserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:05:53.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Profiles\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Profiles\\ApplicationMapper.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Profiles\\ApplicationMapper.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Profiles\\ApplicationMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T06:12:15.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WorkFlowTrakDbContextSeed.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Helpers\\WorkFlowTrakDbContextSeed.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\Helpers\\WorkFlowTrakDbContextSeed.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Helpers\\WorkFlowTrakDbContextSeed.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\Helpers\\WorkFlowTrakDbContextSeed.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA0wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:53:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StepCreateDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:36:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20251108085712_addUserForStage.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Migrations\\20251108085712_addUserForStage.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\Migrations\\20251108085712_addUserForStage.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Migrations\\20251108085712_addUserForStage.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\Migrations\\20251108085712_addUserForStage.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:57:12.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SetpDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\SetpDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\SetpDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\SetpDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\SetpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:45:47.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StepQuery.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\StepQuery.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\StepQuery.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\StepQuery.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\SetpsService\\Queries\\Dto\\StepQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:09:31.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Step.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\Step.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Entites\\Step.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\Step.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Entites\\Step.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:46:17.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StepCreateCommand.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateCommand.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateCommand.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateCommand.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\SetpsService\\Commands\\Dto\\StepCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:36:44.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StepsQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Queries\\Handlers\\StepsQueryHandler.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\SetpsService\\Queries\\Handlers\\StepsQueryHandler.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\SetpsService\\Queries\\Handlers\\StepsQueryHandler.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\SetpsService\\Queries\\Handlers\\StepsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:09:09.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Data\\Entites\\ApplicationRole.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Data\\Entites\\ApplicationRole.cs",
+              "RelativeToolTip": "BackEndTask.Data\\Entites\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:29:16.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RoleQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Handlers\\RoleQueryHandler.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Handlers\\RoleQueryHandler.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Handlers\\RoleQueryHandler.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Handlers\\RoleQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:52:34.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Response\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Response\\ErrorResponse.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Response\\ErrorResponse.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Response\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:08:33.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20251108070940_addOrderInFlowSteps.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Migrations\\20251108070940_addOrderInFlowSteps.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\Migrations\\20251108070940_addOrderInFlowSteps.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Migrations\\20251108070940_addOrderInFlowSteps.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\Migrations\\20251108070940_addOrderInFlowSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:09:40.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WorkFlowCreateCommand.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateCommand.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateCommand.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateCommand.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\Dto\\WorkFlowCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:39:47.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20251108063724_UpdateStepInfo.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Migrations\\20251108063724_UpdateStepInfo.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\Migrations\\20251108063724_UpdateStepInfo.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Migrations\\20251108063724_UpdateStepInfo.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\Migrations\\20251108063724_UpdateStepInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T06:37:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleDto.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleDto.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:46:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RoleQuery.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleQuery.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleQuery.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleQuery.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Services\\RolesSerivces\\Queries\\Dto\\RoleQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:52:44.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BackEndTask.Application.csproj",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\BackEndTask.Application.csproj",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\BackEndTask.Application.csproj",
+              "RelativeToolTip": "BackEndTask.Application\\BackEndTask.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T09:20:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ExceptionExtensions.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\ExtensionsMethods\\ExceptionExtensions.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\ExtensionsMethods\\ExceptionExtensions.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\ExtensionsMethods\\ExceptionExtensions.cs",
+              "RelativeToolTip": "BackEndTask.Application\\ExtensionsMethods\\ExceptionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T09:12:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserFriendlyException.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Exceptions\\UserFriendlyException.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Application\\Exceptions\\UserFriendlyException.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Exceptions\\UserFriendlyException.cs",
+              "RelativeToolTip": "BackEndTask.Application\\Exceptions\\UserFriendlyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T08:50:15.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IReposatory.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Reposatories\\Contracts\\IReposatory.cs",
+              "RelativeDocumentMoniker": "BackEndTask.Persistance\\Reposatories\\Contracts\\IReposatory.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Persistance\\Reposatories\\Contracts\\IReposatory.cs",
+              "RelativeToolTip": "BackEndTask.Persistance\\Reposatories\\Contracts\\IReposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T05:44:51.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

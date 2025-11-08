@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BackEndTask.Api\\BackEndTask.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BackEndTask.Finance.Api\\BackEndTask.Finance.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

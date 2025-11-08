@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2/zeYOV+wb9l629oZNtxKSZVy3Ocq8vKgPJduq/Y+Qc=",
+  "Source": "BackEndTask.Api",
+  "BasePath": "_content/BackEndTask.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
