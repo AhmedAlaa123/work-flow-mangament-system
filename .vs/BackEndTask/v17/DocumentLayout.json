@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\meddilwares\\stepvalidationmeddileware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\meddilwares\\stepvalidationmeddileware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.application\\services\\workflowservice\\commands\\handlers\\workflowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14CF06D8-0AD6-475A-BCC5-CD6DDA7A0863}|BackEndTask.Application\\BackEndTask.Application.csproj|solutionrelative:backendtask.application\\services\\workflowservice\\commands\\handlers\\workflowcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.api\\meddilwares\\stepvalidationmeddileware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54395DB0-B053-454A-B78F-9E31F0F69B4C}|BackEndTask.Api\\BackEndTask.Api.csproj|solutionrelative:backendtask.api\\meddilwares\\stepvalidationmeddileware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77259F0E-8B1A-45C7-806F-109273C353FF}|BackEndTask.Data\\BackEndTask.Data.csproj|d:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\back end task\\backendtask\\backendtask.data\\enums\\applicationenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -266,7 +266,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -386,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WorkflowCommandHandler.cs",
               "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Application\\Services\\WorkFlowService\\Commands\\handlers\\WorkflowCommandHandler.cs",
               "RelativeDocumentMoniker": "BackEndTask.Application\\Services\\WorkFlowService\\Commands\\handlers\\WorkflowCommandHandler.cs",
@@ -411,13 +411,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StepValidationMeddileWare.cs",
               "DocumentMoniker": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
               "RelativeDocumentMoniker": "BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
               "ToolTip": "D:\\\u0645\u0634\u0627\u0631\u064A\u0639 \u062E\u0627\u0635\u0647\\Back End Task\\BackEndTask\\BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
               "RelativeToolTip": "BackEndTask.Api\\MeddilWares\\StepValidationMeddileWare.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAkwHIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwGsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T09:37:56.581Z",
               "EditorCaption": ""
@@ -444,8 +444,7 @@
               "RelativeToolTip": "BackEndTask.Data\\Enums\\ApplicationEnums.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T07:24:39.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:24:39.021Z"
             },
             {
               "$type": "Document",
@@ -529,8 +528,7 @@
               "RelativeToolTip": "BackEndTask.Finance.Api\\Controllers\\FinanceValidatorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:16:44.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:16:44.236Z"
             },
             {
               "$type": "Document",
@@ -554,8 +552,7 @@
               "RelativeToolTip": "BackEndTask.Api\\Controllers\\StepsController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T22:53:59.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T22:53:59.49Z"
             },
             {
               "$type": "Document",
